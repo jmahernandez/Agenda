@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Agenda</string>
+    <string name="action_settings">Settings</string>
+    <string name="agenda_id">Id</string>
+    <string name="agenda_nombre">Nombre</string>
+    <string name="agenda_direccion">Dirección</string>
+    <string name="agenda_telefono">Telefono</string>
+    <string name="agenda_altas">Altas</string>
+    <string name="agenda_bajas">Bajas</string>
+    <string name="agenda_modificaciones">Modificaciones</string>
+    <string name="agenda_consultas">Consultas</string>
+    <string name="salir_btn">Salir</string>
+
+</resources>
